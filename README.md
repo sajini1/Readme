@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sajini sandareka
 - 👀 I’m interested in web technologies, mathematics and chess
-- 🌱 I’m currently reading for B.Sc.(Hons) in Information Technology
+- 🌱 I’m currently reading for B.Sc.(Hons) in Information Technology at University of Moratuwa
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me: mail to sandarekas12@gmail.com
 
